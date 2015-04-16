@@ -25,8 +25,8 @@ Supporting Materials
 * [Old global-growth web app](https://github.com/ClojureBridge/global-growth/blob/master/README.md)
 * Searchable documentation: [conj.io](http://conj.io/)
 
-Challenges
-----------
+Challenges to takle after
+-------------------------
 * Find a list of excersies and compare your solutions to others on [4 Clojure](http://www.4clojure.com/)
 * Another set of little tests you can run on your own machine [Clojure koans](http://clojurekoans.com/)
 * Join the [codewars](http://www.codewars.com/)
