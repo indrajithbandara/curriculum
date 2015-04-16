@@ -20,6 +20,7 @@ Outline
 Supporting Materials
 --------------------
 * [Student Cheatsheet](outline/cheatsheet.md) | [PDF](ClojureBridgeCheatsheet-v1.pdf)
+* [LightTable tutorial](http://docs.lighttable.com/tutorials/full/)
 * [Slides](http://clojurebridgelondon.github.io/curriculum/)
 * [Grimoire - searchable Clojure Documentation](http://conj.io/)
 
