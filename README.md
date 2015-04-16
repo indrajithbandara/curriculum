@@ -17,13 +17,16 @@ Outline
 
 
 
-
 Supporting Materials
 --------------------
 * [Student Cheatsheet](outline/cheatsheet.md) | [PDF](ClojureBridgeCheatsheet-v1.pdf)
 * [Slides](http://clojurebridgelondon.github.io/curriculum/)
-* [Old global-growth web app](https://github.com/ClojureBridge/global-growth/blob/master/README.md)
-* Searchable documentation: [conj.io](http://conj.io/)
+* [Grimoire - searchable Clojure Documentation](http://conj.io/)
+
+
+Alternative project to Capstone
+-------------------------------
+* [Global-growth web app](https://github.com/ClojureBridge/global-growth/blob/master/README.md) - build a web app showing the current state of global development using the World Bank API 
 
 
 Next Steps after ClojureBridge
