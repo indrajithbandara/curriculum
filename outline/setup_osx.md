@@ -147,36 +147,3 @@ Now we will open and run the sample Clojure app in LightTable. In LightTable, cl
 You should see a fun welcome message.
 
 Congratulations! You have opened and run your first Clojure app, and your install and setup are complete!
-
-## For convenience
-
-### automatic closing of parentesses
-
-[Enabling auto-closing parens.](http://stackoverflow.com/questions/27818505/light-table-parentheses-are-not-auto-closing)
-__This has been disabled, because it tends to break with none english kayboard layouts!__
-But if you use the EN layout you should be fine.
-
-Quote from the link:
-> What I needed to do was add this form to the User behaviors configuration:
-
-> To do so, I followed these steps:
-
-> * `Ctrl-Space` to open Commands  
-> * Type `user behaviors` and click the proposed command
-> This open a file that you can edit to add
-> `[:app :lt.objs.settings/pair-keymap-diffs]`
-
-
-### show line numbers
-
-To show line numbers:
-* `Ctrl-Space` to open Commands
-* Type `user behaviors` and click the proposed command
-* This open a file that you can edit to add `[:editor :lt.objs.editor/line-numbers]`
-
-### down wrap lines around
-
-To not have lines wrap around if they are to long for the screen:
-* `Ctrl-Space` to open Commands
-* Type `user behaviors` and click the proposed command
-* This open a file that you can edit to add `[:editor :lt.objs.editor/no-wrap]`
