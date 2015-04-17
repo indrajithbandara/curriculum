@@ -147,6 +147,7 @@ Now we will open and run the sample Clojure app in LightTable. In LightTable, cl
 You should see a fun welcome message.
 
 Congratulations! You have opened and run your first Clojure app, and your install and setup are complete!
+
 ## For convenience
 
 ### automatic closing of parentesses
